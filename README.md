@@ -11,7 +11,7 @@ iOS Shadowrocket / macOS Surge 个人分流配置。专注于：
 ## 配置链接（Shadowrocket 远程订阅）
 
 ```
-https://raw.githubusercontent.com/hilyfux/surge-rules/main/Shadowrocket/Shadowrocket.conf
+https://raw.githubusercontent.com/hilyfux/surge-rules/main/Shadowrocket/auto-router.conf
 ```
 
 iPhone：Shadowrocket → 配置 → 添加（来源选择"URL"）→ 粘贴上面链接 → 下载 → 选中并连接。
